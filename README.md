@@ -4,5 +4,5 @@ Project for Software Engineering course:
 Given a set of betting rates on a sports game (football, basketball),
 find out if a sure-profit is available, and present it if it exists.
 
-Using: Java, Sql, Html, Css.
+Using: Java, Sql, Html.
 
